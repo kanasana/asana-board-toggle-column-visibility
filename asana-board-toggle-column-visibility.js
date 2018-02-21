@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
 	var columnNumber = prompt("Please enter column you want to hide/unhide", "0");
 	var columnContainer = document.querySelector(".SortableList-itemContainer--row");
 	var columnElement = ColumnContainer.children[columnNumber];
